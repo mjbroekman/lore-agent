@@ -1,3 +1,3 @@
 # Locations
 
-Use this directory to store location information.  Keep each location in a separate, atomic file.
+Use this directory to store location information.  Keep each location in a separate, atomic file within a 'data' directory.

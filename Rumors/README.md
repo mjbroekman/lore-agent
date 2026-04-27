@@ -1,6 +1,6 @@
 # Rumors, Myths, and Legends
 
-Use this directory to store rumors, myths, and legends.  Keep each one in a separate, atomic file.
+Use this directory to store rumors, myths, and legends.  Keep each one in a separate, atomic file within a 'data' directory.
 
 ## Format
 ```
