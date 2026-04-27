@@ -1,5 +1,12 @@
-# Byte-compiled / optimized / DLL files
+# project specific files
 lore_sync/Draft/
+_Global_Summary.md
+Characters/data/
+Locations/data/
+Style_Guide/data/
+Timeline/data/
+
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
 *$py.class
