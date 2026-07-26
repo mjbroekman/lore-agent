@@ -2,3 +2,7 @@ langchain_community==0.4.1
 langchain_ollama==1.1.0
 unstructured
 markdown
+langchain
+chromadb
+tiktoken
+langchain.chains
